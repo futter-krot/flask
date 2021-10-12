@@ -1,4 +1,5 @@
-#Pytz
+# Module E9.
+## Subject: Flask application
 
 This application implements an event scheduler.
 
